@@ -1,0 +1,16 @@
+{
+    "name": "app-bp-siteexample",
+    "version": "0.0.1",
+    "description": "A static site example using app-bp",
+    "author": "Andrea Parodi",
+    "keywords": ["angular", "h5bp", "mvc","mongodb","bootstrap", "boilerplate","site","example"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/parroit/app-bp-todoexample.git"
+    },
+    "dependencies": {
+        "app-bp": "0.0.5"
+    },
+    "engines": { "node": "*" }
+
+}
